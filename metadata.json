@@ -1,0 +1,6 @@
+{
+  "name": "JaiClub Casino & Games",
+  "description": "Professional JaiClub inspired casino gaming website featuring Wingo lottery, Aviator crash game, 777 Slots, Mines, Cricket betting, wallet deposits/withdrawals, and VIP rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
